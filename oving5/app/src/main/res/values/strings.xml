@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">oving5</string>
+    <string name="start">Start</string>
+    <string name="send">Send</string>
+    <string name="oppgi_kortnummer">Skriv inn kortnummer:</string>
+    <string name="oppgi_navn">Oppgi navn:</string>
+</resources>

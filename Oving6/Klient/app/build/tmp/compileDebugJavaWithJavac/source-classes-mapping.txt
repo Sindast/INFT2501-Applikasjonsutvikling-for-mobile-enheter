@@ -1,0 +1,2 @@
+inft2501/leksjon_06/klient/BuildConfig.java
+ inft2501.leksjon_06.klient.BuildConfig

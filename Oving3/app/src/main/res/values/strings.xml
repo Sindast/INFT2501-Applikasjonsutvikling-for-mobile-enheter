@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Oving3</string>
+    <string name="friendName1">Sindre</string>
+    <string name="friendDate1">12-8-1998</string>
+    <string name="friendName2">Lars</string>
+    <string name="friendDate2">13-9-1999</string>
+    <string name="friendName3">Petter</string>
+    <string name="friendDate3">29-5-1997</string>
+
+
+    <string-array name="friendNames">
+        <item>@string/friendName1</item>
+        <item>@string/friendName2</item>
+        <item>@string/friendName3</item>
+    </string-array>
+    <string-array name="friendDates">
+        <item>@string/friendDate1</item>
+        <item>@string/friendDate2</item>
+        <item>@string/friendDate3</item>
+    </string-array>
+</resources>

@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Oving4</string>
+    <string name="mon1">Bulbasaur #001</string>
+    <string name="mon1d">There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.</string>
+    <string name="mon2">Ivysaur #002</string>
+    <string name="mon2d">When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.</string>
+    <string name="mon3">Venusaur #003</string>
+    <string name="mon3d">Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.</string>
+    <string name="mon4">Charmander #004</string>
+    <string name="mon4d">It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.</string>
+    <string name="mon5">Charmeleon #005</string>
+    <string name="mon5d">It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.</string>
+    <string name="mon6">Charizard #006</string>
+    <string name="mon6d">It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.</string>
+    <string name="mon7">Squirtle #007</string>
+    <string name="mon7d">When it retracts its long neck into its shell, it squirts out water with vigorous force.</string>
+    <string name="mon8">Wartortle #008</string>
+    <string name="mon8d">It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.</string>
+    <string name="mon9">Blastoise #009</string>
+    <string name="mon9d">It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.</string>
+    <string name="mon10">Caterpie #010</string>
+    <string name="mon10d">For protection, it releases a horrible stench from the antenna on its head to drive away enemies.</string>
+
+    <string-array name="pokemonName">
+        <item>@string/mon1</item>
+        <item>@string/mon2</item>
+        <item>@string/mon3</item>
+        <item>@string/mon4</item>
+        <item>@string/mon5</item>
+        <item>@string/mon6</item>
+        <item>@string/mon7</item>
+        <item>@string/mon8</item>
+        <item>@string/mon9</item>
+        <item>@string/mon10</item>
+    </string-array>
+    <string-array name="pokemonDescription">
+        <item>@string/mon1d</item>
+        <item>@string/mon2d</item>
+        <item>@string/mon3d</item>
+        <item>@string/mon4d</item>
+        <item>@string/mon5d</item>
+        <item>@string/mon6d</item>
+        <item>@string/mon7d</item>
+        <item>@string/mon8d</item>
+        <item>@string/mon9d</item>
+        <item>@string/mon10d</item>
+    </string-array>
+
+    <integer-array name="images">
+        <item>@drawable/bulbasaur</item>
+        <item>@drawable/ivysaur</item>
+        <item>@drawable/venusaur</item>
+        <item>@drawable/charmander</item>
+        <item>@drawable/charmeleon</item>
+        <item>@drawable/charizard</item>
+        <item>@drawable/squirtle</item>
+        <item>@drawable/wartortle</item>
+        <item>@drawable/blastoise</item>
+        <item>@drawable/caterpie</item>
+    </integer-array>
+</resources>
