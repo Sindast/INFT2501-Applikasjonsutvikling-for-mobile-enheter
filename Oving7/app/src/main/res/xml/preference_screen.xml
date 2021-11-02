@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ListPreference
+        app:dialogTitle="Select duration"
+        app:entries="@array/color_entries"
+        app:entryValues="@array/color_values"
+        app:key="@string/background_color"
+        app:summary="Click to show a list to choose from"
+        app:title="Velg bakgrunnsfarge"
+        app:useSimpleSummaryProvider="true" />/>
+</PreferenceScreen>

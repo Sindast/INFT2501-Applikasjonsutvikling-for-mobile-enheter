@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Øving7</string>
+    <string name="settings">Instillinger</string>
+    <string name="back_button">Tilbake></string>
+    <string name="background_color">Bakgrunnsfarge</string>
+    <string name="default_background">#FFFFFFFF</string>
+</resources>
